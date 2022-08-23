@@ -1,3 +1,1 @@
-#Atividade 
-
-Óla a todos, sou estudante de Sistemas para internet e sou aluno na Unialfa em Umuarama-Pr.
+# Olá meu nome é Rhuan, estou estudando para ser um desenvolvedor fullstack, gosto mais do desenvolvimento backend.
