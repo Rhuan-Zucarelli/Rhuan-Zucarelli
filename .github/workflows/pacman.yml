@@ -20,9 +20,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # Generate the pacman-contribution-graph.svg using an alternative action
+      # Generate the pacman-contribution-graph.svg using the correct action
       - name: Generate pacman-contribution-graph.svg
-        uses: maurodesouza/profile-readme-generator@main
+        uses: iceddev/pacman-contribution-graph@v1
         with:
           github_user_name: Rhuan-Zucarelli
 
